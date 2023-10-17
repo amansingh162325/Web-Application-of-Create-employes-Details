@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Web-Application-of-Create-employes-Details/static/css/main.b812a861.css",
+    "main.js": "/Web-Application-of-Create-employes-Details/static/js/main.5a581c7c.js",
+    "index.html": "/Web-Application-of-Create-employes-Details/index.html",
+    "main.b812a861.css.map": "/Web-Application-of-Create-employes-Details/static/css/main.b812a861.css.map",
+    "main.5a581c7c.js.map": "/Web-Application-of-Create-employes-Details/static/js/main.5a581c7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b812a861.css",
+    "static/js/main.5a581c7c.js"
+  ]
+}
