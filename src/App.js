@@ -7,7 +7,7 @@ function App() {
     <div>
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/addemployee" element={<CreateEmployeePage />} />
+        <Route path="/Web-Application-of-Create-employes-Details" element={<CreateEmployeePage />} />
       </Routes>
     </div>
   );
